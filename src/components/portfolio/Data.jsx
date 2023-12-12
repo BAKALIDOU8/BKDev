@@ -39,6 +39,13 @@ export const projectsData = [
     category: "HTML CSS JS",
     url: "https://ap-iimage-bakalidou8.vercel.app/",
   },
+  {
+    id: 6,
+    image: Work5,
+    title: "Systeme authentification NODEJS",
+    category: "BACK END",
+    url: "https://github.com/BAKALIDOU8/authnodejs",
+  } 
 ];
 
 // projects
@@ -53,6 +60,9 @@ export const projectsNav = [
     name: "Vue3",
   },
   {
-    name: "HTML CSS JS",
+    name: "HTML CSS JS"
+  },
+  {
+    name: "BACK END",
   },
 ];
