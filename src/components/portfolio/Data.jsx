@@ -2,6 +2,7 @@ import Work1 from "../../assets/work1.png"
 import Work2 from "../../assets/work2.png"
 import Work3 from "../../assets/work3.png"
 import Work4 from "../../assets/work4.png"
+import Work6 from "../../assets/work6.png"
 
 export const projectsData = [
   {
@@ -41,7 +42,7 @@ export const projectsData = [
   },
   {
     id: 6,
-    image: Work5,
+    image: Work6,
     title: "Systeme authentification NODEJS",
     category: "BACK END",
     url: "https://github.com/BAKALIDOU8/authnodejs",
