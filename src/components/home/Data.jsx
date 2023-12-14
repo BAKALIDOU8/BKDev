@@ -55,7 +55,7 @@ const Data = () => {
                   ></path>
             </svg>    
         </h1>
-        <h3 className="home-subtitle">Développeur React</h3>
+        <h3 className="home-subtitle">Développeur React / Nodejs</h3>
         <p className="home-description">
         Hi ! Je vous souhaite la bienvenue sur mon site. Je suis un développeur web passionné et je suis très heureux de vous faire découvrir mon univers. 
         </p>
