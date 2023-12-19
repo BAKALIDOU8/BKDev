@@ -21,7 +21,7 @@ const Backend = () => {
                     <div className="skills-data">
                         <i className='bx bxs-badge-check'></i>
                         <div>
-                            <h3 className="skills-name">MangoDB</h3>
+                            <h3 className="skills-name">MongoDB</h3>
                             <span className="skills-level">Mid-level</span>
                         </div>
                     </div>
