@@ -17,7 +17,7 @@ const About = () => {
             <div className="about-data">
                 <Info/>
                 <p className="about-description">
-                    Développeur frontend, je crée des sites web responsives. J'ai des années d'expérience et de nombreux clients sont satisfaits des projets réalisés.
+                    Développeur FullStack JS orientée frontend, je crée des sites web responsives. J'ai des années d'expérience et de nombreux clients sont satisfaits des projets réalisés.
                 </p>
 
                 <a download="" href={CV} className="button button-flex">Download CV
