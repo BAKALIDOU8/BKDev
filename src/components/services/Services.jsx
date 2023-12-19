@@ -20,7 +20,7 @@ const Services = () => {
                     <div>
                         <i className="uil uil-web-grid services-icon">
                             <h3 className="services-title">
-                                Product <br /> App
+                                Front <br /> App
                             </h3>
                         </i>
                     </div>
@@ -32,7 +32,7 @@ const Services = () => {
                         <div className="services-modal-content">
                             <i onClick={() => toggleTab(0)} className="uil uil-times services-modal-close"></i>
                             <h3 className="services-modal-title">
-                                Product App
+                                Front App
                             </h3>
                             <p className="services-modal-description">
                                 Avec plus de 4 ans d'expérience, je propose des services de qualité aux clients et aux entreprises.
@@ -42,28 +42,28 @@ const Services = () => {
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Développement d'interface utilisateur responsive
+                                        Créer des maquettes et des prototypes d’interface utilisateur 
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Intégration et maintenance de sites Web
+                                        Conception et gestion de sites web, ainsi que leur maintenance.
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Développement Api Rest Axios
+                                        Réalisation de test unitaire et d’intégration 
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Git
+                                        Optimisation pour les moteurs de recherche (SEO) et référencement naturel.
                                     </p>
                                 </li>
 
@@ -76,7 +76,7 @@ const Services = () => {
                     <div>
                         <i className="uil uil-arrow services-icon">
                             <h3 className="services-title">
-                                 Ui/Ux
+                                 Back <br /> App
                             </h3>
                         </i>
                     </div>
@@ -88,7 +88,7 @@ const Services = () => {
                         <div className="services-modal-content">
                             <i onClick={() => toggleTab(0)} className="uil uil-times services-modal-close"></i>
                             <h3 className="services-modal-title">
-                                Maquette Ui/Ux 
+                                Back App
                             </h3>
                             <p className="services-modal-description">
                                 Avec plus de 4 ans d'expérience, je propose des services de qualité aux clients et aux entreprises.
@@ -98,28 +98,28 @@ const Services = () => {
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Développement d'interface utilisateur responsive
+                                        Installation et Configuration d’API comme Stripe , MapsPlatform.…
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Intégration et respect des maquettes
+                                        Développement de fonctionnalités : validation par SMS / Mail, système d'authentification...
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Respect du DesignSystéme
+                                        Conception et mise en place de bases de données.
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Maitrise Figma
+                                        Sécurisation de vos données
                                     </p>
                                 </li>
 
@@ -144,7 +144,7 @@ const Services = () => {
                         <div className="services-modal-content">
                             <i onClick={() => toggleTab(0)}  className="uil uil-times services-modal-close"></i>
                             <h3 className="services-modal-title"> 
-                                Visual Designer
+                                Other
                             </h3>
                             <p className="services-modal-description">
                                 Avec plus de 4 ans d'expérience, je propose des services de qualité aux clients et aux entreprises.
@@ -154,28 +154,28 @@ const Services = () => {
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Respect de la confidentialité des projets
+                                        Respect de la confidentialité des informations.
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Methodes agiles
+                                        Respect des délais de livraison
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Code Review & Refactoring
+                                        Assurance qualité tout au long du processus de développement pour garantir des résultats exceptionnels
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Référencement SEO
+                                        Collaboration étroite avec nos clients pour une compréhension approfondie de leurs besoins et attentes.
                                     </p>
                                 </li>
 
