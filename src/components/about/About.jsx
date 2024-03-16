@@ -1,7 +1,7 @@
 import React from 'react'
 import "./about.css"
 import AboutImg from "../../assets/profil.jpg"
-import CV from "../../assets/CVKALIDOUBA.pdf"
+// import CV from "../../assets/CVKALIDOUBA.pdf"
 import Info from './Info'
 
 
@@ -20,7 +20,7 @@ const About = () => {
                     Développeur FullStack JavaScript , a la croisée de l’innovation et du numérique, booster votre activité en nous confiant la création de votre site web.
                 </p>
 
-                <a download="" href={CV} className="button button-flex">Download CV
+                {/* <a download="" href={CV} className="button button-flex">Download CV
                 <svg
                 className="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
@@ -46,7 +46,7 @@ const About = () => {
                   fill="var(--container-color)"
                 ></path>
                 </svg>
-                </a>
+                </a> */}
             </div>
 
         </div>
